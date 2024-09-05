@@ -18,9 +18,5 @@ test('Locators', async ({ page }) => {
 
     await page.getByTitle('IoT Dashboard').click()
 
-
-
-
-
 })
 
